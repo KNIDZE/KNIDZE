@@ -1,0 +1,19 @@
+table{
+
+  border-radius: 2px;
+  height: 150px;
+}
+th, td, table{
+  border: coral 5px solid;
+  border-collapse: collapse;
+  background-color: antiquewhite;
+  font-family: 'Lobster', cursive;;
+}
+th{
+  border: crimson solid 5px;
+}
+th, td{
+  text-align: center;
+  min-width: 100px;
+  min-height: 50px;
+}
